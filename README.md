@@ -10,7 +10,7 @@ This repository provides the supplementary material for the following article:
 
 Due to the supplementary file length restriction of the IEEE Journal of Biomedical and Health Informatics, the supplementary material for this article is provided through this GitHub repository.
 
-The supplementary file includes additional information that supports the main manuscript, such as supplementary tables, figures, and methodological details.
+The supplementary file includes additional information that supports the main manuscript.
 
 ## Supplementary File
 
